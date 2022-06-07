@@ -1,0 +1,39 @@
+body {
+  background-color: hsl(0, 0%, 96%);
+  color: hsl(0, 0%, 21%);
+  margin: 3em;
+  font: 16px sans-serif;
+}
+
+form {
+  padding: 1em;
+}
+
+form div {
+  margin-bottom: 1em;
+}
+
+.level-2 {
+  margin-left: 1em;
+}
+
+.level-3 {
+  margin-left: 2em;
+}
+
+.level-4 {
+  margin-left: 3em;
+}
+
+select.hide {
+  display: none;
+}
+
+label {
+  margin-right: 1rem;
+}
+
+.error-label {
+  margin-left: 1rem;
+  color: red;
+}
